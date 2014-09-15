@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DoorOpener</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="info">Touch the raspberry pi!</string>
+    <string name="menu_settings">Android Beam settings</string>
+    <string name="title_activity_credentials_push_nfc">CredentialsPushNFC</string>
+
+</resources>
